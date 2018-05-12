@@ -1,0 +1,38 @@
+_repo: Memoirs-of-a-Midget_39122
+_version: 0.1.0
+contributor:
+  adapter:
+    agent_name: De la Mare, Walter
+    aliases:
+    - Mare, Walter de la
+    - Ramal, Walter
+    - De la Mare, Walter John
+    birthdate: 1873
+    deathdate: 1956
+    gutenberg_agent_id: '1108'
+    url: http://www.gutenberg.org/2009/agents/1108
+    wikipedia: http://en.wikipedia.org/wiki/Walter_de_la_Mare
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2012-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39122'
+  lccn: '22008937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Dwarfs -- Fiction'
+- !lcsh 'Difference (Psychology) -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcc 'PR'
+- !lcsh 'Short people -- Fiction'
+- !lcsh 'Circus performers -- Fiction'
+- !lcsh 'Bildungsromans'
+title: Memoirs of a Midget
+url: http://www.gutenberg.org/ebooks/39122
